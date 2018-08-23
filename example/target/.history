@@ -1,0 +1,10 @@
+compile
+test
+run
+submit emresavas89@hotmail.com OXCdJQFiajVajBLi
+compile
+sum(List(1,2,3))
+console
+compile
+sum(List(1,2,3))
+run
